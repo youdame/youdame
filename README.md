@@ -7,6 +7,6 @@
 * 일정 관리 서비스 [Taskify](https://taskify-harigari.vercel.app/) Web Frontend (2023.12 ~ 2024.01) 👉 [go repo](https://github.com/harigari/taskify)
 ### 🚀 Activity
 * 신촌 연합 창업 동아리 [CEOS](https://ceos-sinchon.com/) 19기 Frontend (2024.03 ~ 2024.08)
-* GDSC EWHA 4기 (2023.03 ~ 2023.12)
+* GDSC EWHA 4기 (2022.09 ~ 2023.08)
 
    
