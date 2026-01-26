@@ -14,3 +14,5 @@
 * 라포랩스 프론트엔드 인턴(2025.07~)
 
    
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlwjd2400)](https://solved.ac/gmlwjd2400/)
