@@ -31,7 +31,7 @@
 * 데이터분석준전문가(ADsP) (2026.08)
 
 ### 🛠 Tech Stack
-JavaScript · TypeScript · React · React Native · TanStack Query · Java · Spring · Python · FastAPI · LangGraph · MySQL · Redis · SQLite · Docker · GitHub Actions · AWS
+TypeScript · React · React Native · TanStack Query · Spring · Python · AWS
 
    
 
